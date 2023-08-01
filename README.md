@@ -1,1 +1,1 @@
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![My Remote Image](https://www.dropbox.com/s/.../my-remote-image.jpg?dl=0)
